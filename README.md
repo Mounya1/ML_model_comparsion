@@ -6,7 +6,7 @@
 This project compares different **machine learning models** for classification using a dataset loaded from `data.csv`.
 We start by exploring the data with **Pandas**, clean it, check for outliers, and then train several models to evaluate their performance.
 
----
+
 
 ##  Dataset
 
@@ -18,7 +18,7 @@ We start by exploring the data with **Pandas**, clean it, check for outliers, an
   * Summarized dataset statistics
   * Detected outliers
 
----
+
 
 ##  Tools Used
 
@@ -30,7 +30,7 @@ We start by exploring the data with **Pandas**, clean it, check for outliers, an
   * Modeling: `scikit-learn`
   * Others: `warnings`
 
----
+
 
 ##  Project Workflow
 
@@ -44,7 +44,7 @@ We start by exploring the data with **Pandas**, clean it, check for outliers, an
   * Statistical summary
   * Outliers
 
----
+
 
 ### 2️ Model Training
 
@@ -56,7 +56,7 @@ We trained and compared the following models:
 4. **Decision Tree**
 5. **K-Nearest Neighbors (KNN)**
 
----
+
 
 ### 3️ Evaluation
 
@@ -67,7 +67,7 @@ We trained and compared the following models:
   * Confusion matrix
   * Classification report
 
----
+
 
 ##  Example Plots
 
