@@ -77,5 +77,3 @@ We trained and compared the following models:
 
 
 
-If you want, I can now **extract the exact model accuracy results from your notebook** and insert them into the README so it shows which model performed best.
-Do you want me to do that?
